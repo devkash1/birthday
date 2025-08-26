@@ -279,7 +279,7 @@ const Home: React.FC = () => {
                     },
                   }}
                 >
-                  🎉 HAPPY BIRTHDAY! 🎂
+                  🎉 HAPPY BIRTHDAY MY LOVE! 🎂
                 </motion.h1>
 
                 <motion.button
