@@ -220,7 +220,7 @@ const Home: React.FC = () => {
                   Countdown to Your Birthday! 🎉🎂
                 </motion.h1>
 
-                <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4 mb-6 sm:mb-8">
+                <div className="grid grid-cols-4 sm:grid-cols-4 gap-3 sm:gap-4 mb-6 sm:mb-8">
                   {["Days", "Hours", "Minutes", "Seconds"].map(
                     (unit, index) => (
                       <motion.div
