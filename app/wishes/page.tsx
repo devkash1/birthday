@@ -9,14 +9,23 @@ const Wishes: React.FC = () => {
       initial={{ opacity: 0, scale: 0.8 }}
       animate={{ opacity: 1, scale: 1 }}
       transition={{ duration: 0.5 }}
-      className="max-w-screen w-full  bg-red-100  p-8 md:p-12 rounded-lg shadow-2xl relative overflow-hidden"
+      className="w-full max-w-7xl mx-auto bg-red-100 p-4 sm:p-8 md:p-12 rounded-lg shadow-2xl relative overflow-hidden"
     >
-      <h1 className="text-4xl md:text-4xl font-serif text-center text-red-950 mb-6">
+      <h1 className="text-2xl sm:text-3xl md:text-4xl font-serif text-center text-red-950 mb-4 sm:mb-6">
         Wishes for My Cutie Panda
       </h1>
-      <div className="w-4xl text-center mx-auto space-y-8 text-gray-800 font-serif text-lg md:text-xl leading-relaxed">
-        <div className="flex justify-center items-center gap-2">
-          <div>
+      <div className="text-center mx-auto space-y-6 sm:space-y-8 text-gray-800 font-serif text-base sm:text-lg md:text-xl leading-relaxed">
+        <div className="flex flex-col sm:flex-row justify-center items-center gap-4 sm:gap-6">
+          <motion.div className="w-48 h-48 sm:w-64 sm:h-64 md:w-96 md:h-48 order-1 sm:order-2">
+            <Image
+              src="/birthday.jpg"
+              alt="birthday"
+              width={250}
+              height={200}
+              className="rounded-full object-cover w-full h-full"
+            />
+          </motion.div>
+          <div className="w-full sm:w-auto order-2 sm:order-1">
             <motion.p
               initial={{ x: -100, opacity: 0 }}
               animate={{ x: 0, opacity: 1 }}
@@ -27,28 +36,18 @@ const Wishes: React.FC = () => {
               feels like a treasure. Happy Birthday, my love!
             </motion.p>
           </div>
-          <motion.div className="w-96 h-48 ">
-            <Image
-              src="/birthday.jpg"
-              alt="birthday"
-              width={250}
-              height={200}
-              className="rounded-full"
-            />
-          </motion.div>
         </div>
-        <div className="flex justify-center items-center gap-2">
-          <div className="w-96 h-52">
+        <div className="flex flex-col sm:flex-row-reverse justify-center items-center gap-4 sm:gap-6">
+          <div className="w-48 h-48 sm:w-64 sm:h-64 md:w-96 md:h-52">
             <Image
               src="/happy.jpg"
-              alt=""
+              alt="happy moment"
               width={250}
               height={200}
-              className="rounded-full"
+              className="rounded-full object-cover w-full h-full"
             />
           </div>
-
-          <div>
+          <div className="w-full sm:w-auto">
             <motion.p
               initial={{ x: 100, opacity: 0 }}
               animate={{ x: 0, opacity: 1 }}
@@ -60,50 +59,50 @@ const Wishes: React.FC = () => {
             </motion.p>
           </div>
         </div>
-
         <div>
-          <div className="w-96 h-52 mx-auto">
+          <div className="w-48 h-48 sm:w-64 sm:h-64 md:w-52 md:h-52 mx-auto">
             <Image
               src="/eat.jpg"
-              alt=""
+              alt="eating moment"
               width={250}
               height={200}
-              className="rounded-full"
+              className="rounded-full object-cover w-full h-full"
             />
           </div>
-          <div className="mt-10">
+          <div className="mt-6 sm:mt-8 md:mt-10">
             <p>
-              My Panda, My Bacha, My Sensie, My Love, My Cuite, My Sweetie, My
+              My Panda, My Bacha, My Sensie, My Love, My Cutie, My Sweetie, My
               Jaan, My Darling Po, My KhuchiPuchi... <br />
               <br />
               Tumne Mujhe life kaise jete hai sikhaya hai Tum bahut jada special
               ho mere liye and aaj tumhara day hai. N yaad hai mujhe tum bole
-              the mujhe jab tum born uhye the tab full lal lal gore the abhi bhi
+              the mujhe jab tum born hue the tab full lal lal gore the abhi bhi
               vase hi ho just born baby. Tumhare liye bahut care lagti hai new
               born baby ki tarhahi ab tumhare sath reh k samjh rahi hu mummy
               bahut care karti hai tumhari n u deserve it my love.
             </p>
           </div>
         </div>
-        <div className="flex justify-center items-center ">
-          <div className="w-96 h-52 ">
+        <div className="flex flex-col sm:flex-row justify-center items-center gap-4 sm:gap-6">
+          <div className="w-48 h-48 sm:w-64 sm:h-64 md:w-52 md:h-52">
             <Image
               src="/hugs.jpg"
-              alt=""
+              alt="hugs"
               width={250}
               height={200}
-              className="rounded-full"
+              className="rounded-full object-cover w-full h-full"
             />
           </div>
-          <div>Sending U lots of Kissess Hugs and Love</div>
+          <div className="text-base sm:text-lg md:text-xl">
+            Sending U lots of Kisses Hugs and Love
+          </div>
         </div>
-
-        <div className="mt-44">
+        <div className="mt-10 sm:mt-20 md:mt-44">
+          <div>Here is something for u about us...</div>
           <div>
-            Here is something for u about us...
             <Link href="/ourStory">
-              <button className="container cursor-pointer w-fit p-2 rounded-full border bg-rose-200 text-red-800 border-rose-900">
-                Kahani{" "}
+              <button className="cursor-pointer w-fit px-4 py-2 rounded-full border bg-rose-200 text-red-800 border-rose-900 text-sm sm:text-base mt-4">
+                Kahani
               </button>
             </Link>
           </div>

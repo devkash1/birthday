@@ -2,11 +2,14 @@
 
 import { motion } from "framer-motion";
 import Link from "next/link";
-import { Heart, Sparkles, Calendar, MapPin } from "lucide-react";
+import { Heart, Sparkles, Calendar, MapPin, ArrowLeft } from "lucide-react";
 
 export default function OurStory() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-rose-50 via-pink-50 to-red-50 py-4 px-4">
+      <div>
+        <ArrowLeft></ArrowLeft>
+      </div>
       <div className="fixed inset-0 overflow-hidden pointer-events-none">
         <motion.div
           animate={{
@@ -103,7 +106,7 @@ export default function OurStory() {
                 <div className="flex items-center gap-2 mb-3">
                   <Calendar className="w-5 h-5 text-rose-600" />
                   <h3 className="text-xl font-semibold text-rose-800">
-                    First Meeting
+                    First Meet
                   </h3>
                 </div>
                 <p className="text-base md:text-lg">
@@ -114,8 +117,8 @@ export default function OurStory() {
                   dena keli bt pooja was not ready toh dono de rahe the. N usme
                   u was the only one jo itne sare questions puch raha tha jiske
                   bareme hume bhi pata nhi tha so I was like &quot;yaar ise itna
-                  kya hai jo bol rahi hu sunke le aur baadme HR ko puch. Kyu
-                  dimag kha raha hai.&quot;😅
+                  kya hai jo bol rahi hu sunke le aur baadme HR ko puch.{" "}
+                  <b> Kyu dimag kha raha hai.&quot;😅</b>
                 </p>
               </div>
 
@@ -238,7 +241,7 @@ export default function OurStory() {
 
                 <div className="bg-rose-50 rounded-2xl p-6">
                   <p className="text-lg font-medium text-rose-800 mb-4">
-                    Bass bahut sari baate hai bahut sare memories hai bt abhi
+                    Bass, bahut sari baate hai bahut sare memories hai bt abhi
                     yahi ruk rahi hu varna tum bore ho jaoge Birthday k din, aur
                     bologe ki ye kya itna likha hai aur kyu likha hai, pata hai
                     mujhe bhi aur tumhe bhi toh likh ke sabud kyu bana rahi hai
@@ -257,6 +260,10 @@ export default function OurStory() {
                   karta tha ab kya subha ek bar aur raat ko thoda sa...&quot; Ye
                   dimag samjhata hai dil ko koi baat nahi samjhati, pata hai
                   mujhe tum hamesha sath ho mere, mere pass, mere andhar.
+                  <br />
+                  But maine sare records sirf tumhare sath hi banaye hai long
+                  chats, long calls, daily ithni sari baathe, aur bahut khuch
+                  and aur bhi records banane hai tumhare sath.
                 </p>
 
                 <div className="text-center bg-gradient-to-r from-pink-100 to-rose-100 rounded-2xl p-8">

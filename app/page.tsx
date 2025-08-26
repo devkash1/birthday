@@ -4,10 +4,10 @@ import Home from "./home/page";
 export default function page() {
   return (
     <>
-      <Head>
+      {/* <Head>
         <title>Happy Birthday!</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      </Head>
+      </Head> */}
       <Home />
     </>
   );
