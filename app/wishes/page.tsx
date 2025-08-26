@@ -77,8 +77,8 @@ const Wishes: React.FC = () => {
               <br />
               Tumne Mujhe life kaise jete hai sikhaya hai Tum bahut jada special
               ho mere liye and aaj tumhara day hai. N yaad hai mujhe tum bole
-              the mujhe jab tum born uhye the tab full lal gore the abhi bhi
-              vase hi ho just born baby. Tumhare liye bahut care lagti hai just
+              the mujhe jab tum born uhye the tab full lal lal gore the abhi bhi
+              vase hi ho just born baby. Tumhare liye bahut care lagti hai new
               born baby ki tarhahi ab tumhare sath reh k samjh rahi hu mummy
               bahut care karti hai tumhari n u deserve it my love.
             </p>

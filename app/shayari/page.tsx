@@ -21,7 +21,7 @@ export default function Shayari() {
           <br />
           Aap hi ho mera Pehla Bacha, Jiske Masoom chehre pe likhi meri har
           dua.. <br />
-          Aap hi ho mera Panda Pyaara, halka-phulka sa pyaar.. <br />
+          Aap hi ho mera Panda Pyaara, golu-molu sa pyaar.. <br />
           jise dekh kar thakawat bhi ho jaye bekaar... <br />
           Aap hi ho meri Muskurahat ki wajah, <br />
           Jab roothi ho khushi, aap ban jayein Sabab.. <br />
