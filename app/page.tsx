@@ -1,4 +1,3 @@
-import Head from "next/head";
 import Home from "./home/page";
 
 export default function page() {
