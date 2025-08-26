@@ -113,9 +113,9 @@ export default function OurStory() {
                   hairs oily as usual. Maine Pooja ko bola tha tumne induction
                   dena keli bt pooja was not ready toh dono de rahe the. N usme
                   u was the only one jo itne sare questions puch raha tha jiske
-                  bareme hume bhi pata nhi tha so I was like "yaar ise itna kya
-                  hai jo bol rahi hu sunke le aur baadme HR ko puch. Kyu dimag
-                  kha raha hai."😅
+                  bareme hume bhi pata nhi tha so I was like &quot;yaar ise itna
+                  kya hai jo bol rahi hu sunke le aur baadme HR ko puch. Kyu
+                  dimag kha raha hai.&quot;😅
                 </p>
               </div>
 
@@ -125,15 +125,16 @@ export default function OurStory() {
                   The Smoothie Incident 🧃
                 </h3>
                 <p className="text-base md:text-lg">
-                  Aapna second interaction tha smooodh 🧃 As I'm introvert mai
-                  jada kisi se baat nahi karti thi only pranali se baat karti
-                  thi. Lunch break mai maine apne liye smoothie laya tha ki
-                  evening mai piungi, bt ek chor tha jisne mera smoothie liya
-                  tha 😑 Haa ye baat alag thi ki usne pucha tha ki 'kiska hai ye
-                  mai le raha hu' bt mera dhyan nhi tha n pranali ne bola mujhe
-                  ki mera smoothie yuvraj ne liya hai and mera action was "aye
-                  ye mera hai!!" jorse chilai thi. That moment was horrible.
-                  abhi soch kar bahut hassi aati hai 🤪🤣🤣.
+                  Aapna second interaction tha smooodh 🧃 As I&quot;m introvert
+                  mai jada kisi se baat nahi karti thi only pranali se baat
+                  karti thi. Lunch break mai maine apne liye smoothie laya tha
+                  ki evening mai piungi, bt ek chor tha jisne mera smoothie liya
+                  tha 😑 Haa ye baat alag thi ki usne pucha tha ki &quot;kiska
+                  hai ye mai le raha hu&quot; bt mera dhyan nhi tha n pranali ne
+                  bola mujhe ki mera smoothie yuvraj ne liya hai and mera action
+                  was &quot;aye ye mera hai!!&quot; jorse chilai thi. That
+                  moment was horrible. abhi soch kar bahut hassi aati hai
+                  🤪🤣🤣.
                 </p>
               </div>
 
@@ -141,10 +142,10 @@ export default function OurStory() {
                 <p>
                   Aur uske baadme ek interaction Pranali k cabin mai tha. U was
                   talking with her in her cabin aur mai aai thi use kuch baat
-                  karne n tum the vaha pe aur tumne bola tha "iski smile same IT
-                  wale joker jaisi dikhati hai same Joker jaise dikhati hai tu
-                  jab hasti hai" 🤡🤨. Kya sachme meri smile joker jaisi hai,
-                  haa ye baat alag hai ki mai chudel hu 🤭😝
+                  karne n tum the vaha pe aur tumne bola tha &quot;iski smile
+                  same IT wale joker jaisi dikhati hai same Joker jaise dikhati
+                  hai tu jab hasti hai&quot; 🤡🤨. Kya sachme meri smile joker
+                  jaisi hai 🤨, haa ye baat alag hai ki mai chudel hu 🤭😝
                 </p>
 
                 <div className="bg-yellow-50 rounded-2xl p-6 border-l-4 border-yellow-400">
@@ -186,10 +187,10 @@ export default function OurStory() {
                     was wearing a dark blue kurta (looking handsome 🫣). Photo
                     nikalne k liye dono bhi awkward the pata nahi kyu. N mujhe
                     pata hai mai apne age se badi dikhati hu n voh time saree
-                    mai aunty bhi lag rahi rahungi I don't care bt tab Narayan
-                    aisa hi kuch toh bolne wala tha pr tumne use rokha tha tabhi
-                    ik, pata nahi kyu us time thoda acha laga tha tumne roka
-                    toh.
+                    mai aunty bhi lag rahi rahungi I don&quot;t care bt tab
+                    Narayan aisa hi kuch toh bolne wala tha pr tumne use rokha
+                    tha tabhi ik, pata nahi kyu us time thoda acha laga tha
+                    tumne roka toh.
                   </p>
                   <p>
                     Aur ek hai ganpati ka moment jab tum mere ghar nahi aye the.
@@ -242,7 +243,7 @@ export default function OurStory() {
                     bologe ki ye kya itna likha hai aur kyu likha hai, pata hai
                     mujhe bhi aur tumhe bhi toh likh ke sabud kyu bana rahi hai
                     kisine dekha toh. Kyuki mujhe tum se bahut sari baatein
-                    karni hai pr tum samne aate ho n I'm blank.
+                    karni hai pr tum samne aate ho n I&quot;m blank.
                   </p>
                 </div>
 
@@ -250,12 +251,12 @@ export default function OurStory() {
                   Tumhe pata hai abhi tum jo busy hogaye ho phele jaisi baat
                   nahi ho rahi hai dimag se mai samjh rahi hu okay thike hai
                   busy hai kaam mai hai koi baat nahi hai chill. Pr ye dil hai
-                  na pagal samjhta hi nhi hai barbar dimag ko bolta hai 'kya hai
-                  koi itna busy thodi ho sakta hai ek msg karne ko nahi hota koi
-                  chinta hi nahi hai pehele roj har waqt baat karta tha ab kya
-                  subha ek bar aur raat ko thoda sa...' Ye dimag samjhata hai
-                  dil ko koi baat nahi samjhati, pata hai mujhe tum hamesha sath
-                  ho mere, mere pass, mere andhar.
+                  na pagal samjhta hi nhi hai barbar dimag ko bolta hai
+                  &quot;kya hai koi itna busy thodi ho sakta hai ek msg karne ko
+                  nahi hota koi chinta hi nahi hai pehele roj har waqt baat
+                  karta tha ab kya subha ek bar aur raat ko thoda sa...&quot; Ye
+                  dimag samjhata hai dil ko koi baat nahi samjhati, pata hai
+                  mujhe tum hamesha sath ho mere, mere pass, mere andhar.
                 </p>
 
                 <div className="text-center bg-gradient-to-r from-pink-100 to-rose-100 rounded-2xl p-8">
