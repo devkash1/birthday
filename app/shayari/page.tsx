@@ -131,10 +131,10 @@ export default function Shayari() {
 
               {/* Decorative quote marks */}
               <div className="absolute -top-4 -left-2 text-6xl text-rose-200 font-serif leading-none">
-                "
+                &quot;
               </div>
               <div className="absolute -bottom-8 -right-2 text-6xl text-rose-200 font-serif leading-none rotate-180">
-                "
+                &quot;
               </div>
             </motion.div>
 
