@@ -261,7 +261,7 @@ const Home: React.FC = () => {
                 className="text-center px-4 sm:px-6 lg:px-8"
               >
                 <motion.h1
-                  className="text-4xl sm:text-6xl lg:text-8xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 mb-6 sm:mb-8 lg:mb-12 leading-tight"
+                  className="text-4xl sm:text-6xl lg:text-8xl font-extrabold text-red-900 mb-6 sm:mb-8 lg:mb-12 leading-tight"
                   animate={{
                     backgroundPosition: ["0% 50%", "100% 50%", "0% 50%"],
                     scale: [1, 1.05, 1],
@@ -279,7 +279,7 @@ const Home: React.FC = () => {
                     },
                   }}
                 >
-                  🎉 HAPPY BIRTHDAY MY LOVE! 🎂
+                  WISHING YOU HAPPIEST BIRTHDAY YUVRAJ MY LOVE! 🎉🎂
                 </motion.h1>
 
                 <motion.button

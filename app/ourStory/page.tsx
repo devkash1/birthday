@@ -3,12 +3,19 @@
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { Heart, Sparkles, Calendar, MapPin, ArrowLeft } from "lucide-react";
+import { useRouter } from "next/navigation";
 
 export default function OurStory() {
+  const router = useRouter();
   return (
     <main className="min-h-screen bg-gradient-to-br from-rose-50 via-pink-50 to-red-50 py-4 px-4">
       <div>
-        <ArrowLeft></ArrowLeft>
+        <button
+          onClick={() => router.back()}
+          className="group flex items-center gap-2 bg-white/80 backdrop-blur-sm hover:bg-white/90 text-rose-700 hover:text-rose-800 font-medium py-3 px-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 border border-rose-200 hover:border-rose-300"
+        >
+          <ArrowLeft className="w-5 h-5 group-hover:-translate-x-1 transition-transform duration-300" />
+        </button>
       </div>
       <div className="fixed inset-0 overflow-hidden pointer-events-none">
         <motion.div
