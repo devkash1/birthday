@@ -5,7 +5,7 @@ import type React from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Wishes from "../wishes/page";
 
-const BIRTHDAY_DATE = "2025-08-16T00:00:00"; // Set your birthday here
+const BIRTHDAY_DATE = "2025-09-16T00:00:00"; // Set your birthday here
 
 const Confetti = () => {
   const confettiPieces = Array.from({ length: 50 }, (_, i) => ({
