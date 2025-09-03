@@ -207,7 +207,7 @@ const Home: React.FC = () => {
                 className="text-center bg-white/90 backdrop-blur-sm p-6 sm:p-8 lg:p-10 rounded-3xl shadow-2xl max-w-sm sm:max-w-md lg:max-w-lg w-full border border-white/20"
               >
                 <motion.h1
-                  className="text-2xl sm:text-3xl lg:text-4xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent mb-6 sm:mb-8"
+                  className="text-2xl sm:text-3xl lg:text-4xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent "
                   animate={{
                     backgroundPosition: ["0% 50%", "100% 50%", "0% 50%"],
                   }}
@@ -217,9 +217,11 @@ const Home: React.FC = () => {
                     ease: "easeInOut",
                   }}
                 >
-                  Countdown to Your Birthday! 🎉🎂
+                  Countdown to Your Birthday!
                 </motion.h1>
-
+                <span className="mb-6 sm:mb-8 text-2xl sm:text-3xl lg:text-4xl">
+                  🎉🎂
+                </span>
                 <div className="grid grid-cols-4 sm:grid-cols-4 gap-3 sm:gap-4 mb-6 sm:mb-8">
                   {["Days", "Hours", "Minutes", "Seconds"].map(
                     (unit, index) => (

@@ -214,14 +214,38 @@ export default function OurStory() {
                   </p>
                 </div>
 
-                <p>
-                  Uske baad Ghansoli. Mai Ghansoli chali gayi thi n tum fort
-                  office tabhi ka jo conversation tha was something different.
-                  pata nahi bt tab late night talks start hue the 2 baje tak 3
-                  baje tak small chat convert into big daily conversation. Aur
-                  tum baadme VC bhi karna start kiye, something was there bt not
-                  knowing.
-                </p>
+                <div className="bg-rose-50 rounded-2xl p-6 border-l-4 border-rose-400">
+                  <div className="flex items-center gap-2 mb-3">
+                    <Calendar className="w-5 h-5 text-rose-600" />
+                    <h3 className="text-xl font-semibold text-rose-800">
+                      Garden & Goodbyes
+                    </h3>
+                  </div>
+                  <p className="text-base md:text-lg">
+                    Uske baad jab mujhe pata chala mera office ka last date tab
+                    tumne gardern mai le gaye the acha laga tha tab fir meri
+                    vajase kharcha bhi hua us din (18/11/24).
+                    <br />
+                    Fir pata nahi last day (18/12/24) pe mujhe tumhe hug karne
+                    ka man kar raha tha idk why...
+                  </p>
+                </div>
+
+                <div className="bg-pink-50 rounded-2xl p-6 border-l-4 border-pink-400">
+                  <div className="flex items-center gap-2 mb-3">
+                    <Calendar className="w-5 h-5 text-pink-600" />
+                    <h3 className="text-xl font-semibold text-rose-800">
+                      13th March, 2025
+                    </h3>
+                  </div>
+                  <p className="text-base md:text-lg">
+                    13th march, 2025 ko mujhe laga nhi tha ki Tum Thane aaoge
+                    voh bhi shaam k time. The day first time humne holi kheli
+                    thi aur voh tumhara movement😅 haat pakad ke slow motion aur
+                    &quot;Jana hai par tere tuhi bawar hai pahuche nao kaise
+                    najuk si naiya&quot;
+                  </p>
+                </div>
 
                 <div className="bg-gradient-to-r from-rose-100 to-pink-100 rounded-2xl p-6 border-2 border-rose-300">
                   <div className="flex items-center gap-2 mb-4">
@@ -270,7 +294,9 @@ export default function OurStory() {
                   <br />
                   But maine sare records sirf tumhare sath hi banaye hai long
                   chats, long calls, daily ithni sari baathe, aur bahut khuch
-                  and aur bhi records banane hai tumhare sath.
+                  and aur bhi records banane hai tumhare sath. <br />
+                  Aur jab aap apne problem share karte ho toh bahut acha lagta
+                  hai aur khuch bhi voh batao mai hamesha hu aapko sune k liye🤗
                 </p>
 
                 <div className="text-center bg-gradient-to-r from-pink-100 to-rose-100 rounded-2xl p-8">
