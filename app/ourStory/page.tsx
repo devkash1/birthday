@@ -121,11 +121,12 @@ export default function OurStory() {
                   Mai Process coordinator thi aur tum Frontend Developer. Tumne
                   white shirt pehna tha formals mai the bt in nhi kiya tha aur
                   hairs oily as usual. Maine Pooja ko bola tha tumne induction
-                  dena keli bt pooja was not ready toh dono de rahe the. N usme
-                  u was the only one jo itne sare questions puch raha tha jiske
-                  bareme hume bhi pata nhi tha so I was like &quot;yaar ise itna
-                  kya hai jo bol rahi hu sunke le aur baadme HR ko puch.{" "}
-                  <b> Kyu dimag kha raha hai.&quot;😅</b>
+                  dena keli bt pooja was not ready toh maine use bola okay mai
+                  deti hu bt tum bhi aao aur dekho. N usme tum se pehel jitno ko
+                  briefing kiya tha u was the only one jo itne sare questions
+                  puch raha tha jiske bareme hume bhi pata nhi tha so I was like
+                  &quot;yaar ise itna kya hai jo bol rahi hu sunke le aur baadme
+                  HR ko puch. <b> Kyu dimag kha raha hai.&quot;😅</b>
                 </p>
               </div>
 
@@ -167,22 +168,23 @@ export default function OurStory() {
                     hu toh tab baat hui. Aur baadme tumne sir ko bola and U
                     became MY SENSEI on 17th May, 2024. Tabhi toh roj second
                     half mai aake baithe the n mujhe aur pooja ko sikhate the
-                    actually baatein karte the pravachan Yuvraj Baba. Voh time
-                    mai like july mai mai thodi down hogayi thi due to some
-                    reason pata nahi kya tha mujhe yaad bhi nhi hai kyu mai down
-                    thi bt daily quotes likhe the use samjh aarha hai n voh time
-                    pe tum second half mai ake jo ek smile late the tabhi notice
-                    nahi kiya tha bt mai ghar jate time happy jati thi 🤗 n
-                    reason was ur stupid talks.😁
+                    actually baatein karte the pravachan Yuvraj Baba😅. <br />
+                    Voh time mai like july mai mai thodi down hogayi thi due to
+                    some reason pata nahi kya tha mujhe yaad bhi nhi hai kyu mai
+                    down thi bt daily quotes likhe the use samjh aarha hai n voh
+                    time pe tum second half mai ake jo ek smile late the tabhi
+                    notice nahi kiya tha bt mai ghar jate time happy jati thi 🤗
+                    n reason was ur stupid talks.😁
                   </p>
                   <p>
                     Haa I was talking that tabhi mai quotes likhati thi n ek din
                     mai office nahi aai thi toh tumne jo mere quotes sahi kiye n
-                    ek quote mere liye likha tha... like next day aake dekha ye
-                    sab and I was happy aur big smile on face 😊 n bahut
-                    emotional 🥹 feel kar rahi thi. Like kisine ye mere liye
-                    likha hai mujhe samjhaya hai aur mujhe pata tha itni
-                    samjhdari wali baat Yuvraj hi kar sakta hai🤗
+                    ek quote mere liye likha tha &quot;TIME ALWAYS LIMITED SO DO
+                    IT NOW!&quot; like next day aake dekha ye sab and I was
+                    happy aur big smile on face 😊 n bahut emotional 🥹 feel kar
+                    rahi thi. Like kisine ye mere liye likha hai mujhe samjhaya
+                    hai aur mujhe pata tha itni samjhdari wali baat Yuvraj hi
+                    kar sakta hai🤗
                   </p>
                 </div>
 
@@ -211,6 +213,22 @@ export default function OurStory() {
                     lai thi n bartan bhi dhoke rakha tha and that time I was
                     like okay thike hai karna chahiye, kyu karna chahiye pata
                     nahi 😅
+                  </p>
+                </div>
+                <div className="bg-rose-50 rounded-2xl p-6 border-l-4 border-rose-400">
+                  <div className="flex items-center gap-2 mb-3">
+                    <h3 className="text-xl font-semibold text-rose-800">
+                      Ghansoli
+                    </h3>
+                  </div>
+                  <p className="text-base md:text-lg">
+                    Mai Ghansoli chali gayi thi means mujhe bheja gaya tha n tum
+                    fort office tabhi ka jo conversation tha was something
+                    different. Pata nahi bt tab late night talks start hue the 2
+                    baje tak 3 baje tak small chat convert into big daily
+                    conversation. Aur usme tumhari shayariya shayad vaha pe dil
+                    jeet liya tha😅 aur tum baadme VC bhi karna start kiye,
+                    tabhi something was happening bt not knowing.
                   </p>
                 </div>
 
@@ -242,8 +260,10 @@ export default function OurStory() {
                     13th march, 2025 ko mujhe laga nhi tha ki Tum Thane aaoge
                     voh bhi shaam k time. The day first time humne holi kheli
                     thi aur voh tumhara movement😅 haat pakad ke slow motion aur
-                    &quot;Jana hai par tere tuhi bawar hai pahuche nao kaise
-                    najuk si naiya&quot;
+                    <b>
+                      &quot;Jana hai par tere tuhi bawar hai pahuche nao kaise
+                      najuk si naiya&quot;
+                    </b>
                   </p>
                 </div>
 
@@ -266,7 +286,14 @@ export default function OurStory() {
                     vaha se central park gaye bt tabhi voh band tha 😅. Fir vaha
                     se Mall gaye juice piya tha watermelon and sitafal. Pura
                     mall haat pakad ke ghume. Firse Central Park gaye vaha tumne
-                    mujhe dahi roti khilai apne haat se...
+                    mujhe dahi roti khilai apne haat se... Fir Gardend Ghume
+                    aur... <br />
+                    The New Story begins... dk new one started or continued ab
+                    agey ye story kaha jati hai pata nahi jo hoga acha hoga.
+                    Pata hai pagal aapko na apne pass hi rakhne ka man karta hai
+                    dil se laga ke... Dust Panda. Aage jo bhi ho aap mere ho
+                    mere pass ho humesha mere dil mai aur mai bhi hamesha apiki
+                    hi banke rahungi. Love You my Rasgulla 😘❤️
                   </p>
                 </div>
 

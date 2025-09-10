@@ -72,7 +72,7 @@ const Wishes: React.FC = () => {
           <div className="mt-6 sm:mt-8 md:mt-10">
             <p>
               My Panda, My Bacha, My Sensie, My Love, My Cutie, My Sweetie, My
-              Jaan, My Darling Po, My KhuchiPuchi... <br />
+              Jaan, My Darling Po, My Rasgulla, My KhuchiPuchi... <br />
               <br />
               Tumne Mujhe life kaise jete hai sikhaya hai Tum bahut jada special
               ho mere liye and aaj tumhara day hai. N yaad hai mujhe tum bole
